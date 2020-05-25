@@ -6,6 +6,15 @@ Instead, most mods within the mod installer rely on [BSIPA (Beat Saber Illusion 
 
 Previously, we used [IPA (Illusion Plugin Architecture)](https://github.com/Eusth/IPA). Some plugins still use this, and is temporarily supported by BSIPA. We still use IPA for the mod tutorial, however it is recommended to use BSIPA for any future modding endeavors.
 
+::: warning 
+## BSIPA DMCA
+Recently (May 20th, 2020), BSIPA was hit with a [DMCA takedown](https://github.com/github/dmca/blob/master/2020/05/2020-05-20-beatsaber.md), along with other repositorys. In the mean time, you can download the latest version of BSIPA (4.0.5) from [Beatmods.com](https://beatmods.com/#/mods) or directly, [here](https://beatmods.com/uploads/5e89a8e603dce96ca6cf0eb5/universal/BSIPA-4.0.5.zip).
+
+As far as source code for BSIPA goes, someone who has the latest source code, should replace this block of text with a link to the source code.
+:::
+
+
+
 For those of you who prefer [BepInEx](https://github.com/BepInEx/BepInEx) over either of these options, Bepis is supposedly working on a BSIPA emulator for BepInEx, and already has one available for regular IPA plugins. As for developing Beat Saber plugins for BepInEx, well, you're kinda on your own.
 
 ## Project Setup
