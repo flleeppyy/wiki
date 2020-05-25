@@ -9,6 +9,12 @@ footer: Copyright © 2019 Beat Saber Modding Group | Licensed under CC BY-NC-SA 
 
 <div class='features'>
 
+::: warning
+## Notice
+BSIPA was recently hit with a DMCA takedown, so we have yet to find out about another offical repository
+If your looking for a download, you can download it on the Beatmods website; its the first box you see: [Beatmods](https://beatmods.com/#/mods).
+:::
+
 ::: feature Getting Started
 * [PC Modding](./pc-modding.md)
 * [Quest Modding](./quest-modding.md)
